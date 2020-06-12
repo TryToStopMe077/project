@@ -1,5 +1,5 @@
 "use strict";
-//Lesson 13;
+
 if (4 == 9) {
     console.log('Ok!');
 } else {
@@ -16,7 +16,7 @@ if (num < 49) {
     console.log('Ok!');
 }
 
-(num === 50) ? console.log('Ok!') : console.log('error');
+//(num === 50) ? console.log('Ok!') : console.log('error');
 
 const num2 = 50;
 
